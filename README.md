@@ -1,1 +1,0 @@
-# php-fiesta-cookie
